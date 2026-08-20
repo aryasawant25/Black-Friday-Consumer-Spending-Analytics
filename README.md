@@ -28,7 +28,7 @@ Python (Pandas, NumPy, Matplotlib, Seaborn), Power BI, Statistical Analysis
   high-value demographic segments rather than distributing evenly across all customer groups
 
 ## Dashboard Preview
-![dashboard](images/Black_friday_sale_power_bi.png)
+![dashboard](images/Black friday sale power bi.png)
 
 ## How to Run
 ```
